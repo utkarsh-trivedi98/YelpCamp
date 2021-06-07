@@ -1,0 +1,6 @@
+{
+    "git.promptToSaveFilesBeforeCommit": "never",
+    "editor.formatOnSave": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.formatOnPaste": true
+}
